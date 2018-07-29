@@ -40,4 +40,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-src/app/_guards/prevent-unsaved-changes.guard.ts
+# src/app/_guards/prevent-unsaved-changes.guard.ts
